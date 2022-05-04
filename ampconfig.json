@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.6",
+  "appInfo": {
+    "name": "Sample app",
+    "description": "Sample application for e-commerce",
+    "version": "ukripdb0",
+    "id": "cl2rrh8eg54195601s67o2rocy0",
+    "url": "https://app.amplication.com/cl2rrh8eg54195601s67o2rocy0",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl2rrh8eg54195601s67o2rocy0",
+      "authProvider": "Jwt"
+    }
+  }
+}
